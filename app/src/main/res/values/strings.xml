@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidMapTest</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
